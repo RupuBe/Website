@@ -1,0 +1,13 @@
+.left{
+    background-image: url("../images/\ ima.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    
+}
+.right{
+    background-image: url("../images/\ image.gif");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size:240px 240px;
+}
